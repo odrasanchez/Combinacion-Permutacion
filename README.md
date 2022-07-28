@@ -3,10 +3,10 @@
 _Calculadora de combinaciones ordinarias, permutaciones ordinarias con repetición y permutaciones ordinarias sin repetición. Basadas en fórmulas matemática que se revisan en el ámbito académico._
 
 ### Situación de repositorio
-<img src="https://img.shields.io/badge/Coverage-100%25-dbc9f1?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/0draS0/PY-CalcuCombinaciones?color=dbc9f1&style=for-the-badge" /> <img src="https://img.shields.io/badge/Version-1.0-dbc9f1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coverage-75%25-dbc9f1?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/0draS0/PY-CalcuCombinaciones?color=dbc9f1&style=for-the-badge" /> <img src="https://img.shields.io/badge/Version-1.0-dbc9f1?style=for-the-badge" />
 
 ### Tecnologías utilizadas 🔨
-  - Spyder (Python 3.9)
+<img src="https://img.shields.io/badge/spyder-Code?style=for-the-badge&logo=spyderide&logoColor=black&color=dbc9f1" /> <img src="https://img.shields.io/badge/python-Code?style=for-the-badge&logo=python&logoColor=black&color=dbc9f1" />
 
 ### Notas importantes ⚠
   - Ambas calculadoras cuentan con lineas de restricción de datos, esto por solicitud de la fórmula matemática.

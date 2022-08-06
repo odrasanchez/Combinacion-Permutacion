@@ -2,7 +2,7 @@
 
 _Calculadora de combinaciones ordinarias, permutaciones ordinarias con repetición y permutaciones ordinarias sin repetición. Basadas en fórmulas matemática que se revisan en el ámbito académico._
 
-### Situación de repositorio
+### Situación de repositorio 📊️
 <img src="https://img.shields.io/badge/Coverage-75%25-dbc9f1?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/0draS0/PY-CalcuCombinaciones?color=dbc9f1&style=for-the-badge" /> <img src="https://img.shields.io/badge/Version-1.0-dbc9f1?style=for-the-badge" />
 
 ### Tecnologías utilizadas 🔨

@@ -1,20 +1,22 @@
-# Combinaciones y permutaciones
+# Calculadora: Combinaciones y permutaciones
 
 _Calculadora de combinaciones ordinarias, permutaciones ordinarias con repetición y permutaciones ordinarias sin repetición. Basadas en fórmulas matemática que se revisan en el ámbito académico._
 
-### Situación de repositorio 📊️
-<img src="https://img.shields.io/badge/Coverage-75%25-dbc9f1?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/0draS0/PY-CalcuCombinaciones?color=dbc9f1&style=for-the-badge" /> <img src="https://img.shields.io/badge/Version-1.0-dbc9f1?style=for-the-badge" />
+## Situación de repositorio 📊️
+<img src="https://img.shields.io/badge/Coverage-100%25-FFB4A2?style=for-the-badge" />  <img src="https://img.shields.io/github/stars/0draS0/Practicas_HTML?color=FFB4A2&style=for-the-badge" />  <img src="https://img.shields.io/badge/Version-1.2-FFB4A2?style=for-the-badge" />
+
+<br>
 
 ### Tecnologías utilizadas 🔨
-<img src="https://img.shields.io/badge/spyder-Code?style=for-the-badge&logo=spyderide&logoColor=black&color=dbc9f1" /> <img src="https://img.shields.io/badge/python-Code?style=for-the-badge&logo=python&logoColor=black&color=dbc9f1" />
+<img src="https://img.shields.io/badge/spyder-Code?style=for-the-badge&logo=spyderide&logoColor=black&color=FFB4A2" /> <img src="https://img.shields.io/badge/python-Code?style=for-the-badge&logo=python&logoColor=black&color=FFB4A2" />
 
 ### Notas importantes ⚠
   - Ambas calculadoras cuentan con lineas de restricción de datos, esto por solicitud de la fórmula matemática.
-  - Ambos códigos se encuentran comentados.
-  - No requiere de ninguna instalación extra, los programas cuentan con las librerías necesarias para ejecutarse sin problema.
+  - El idioma del contenido de los archivos así como de comentarios está en Español (MX).
+  - No requiere de ninguna instalación extra, los programas cuentan con las librerías necesarias para ejecutarse.
 
 
-## Calculadora con uso de cadena  (Calculadora 1)
+## [Calculadora con uso de cadena - Directorio](https://github.com/0draS0/PY-CalcuCombinaciones/tree/main/Calculadora%20con%20cadena "Cadenas")
 El programa cuenta con un menú de selección, donde el usuario puede ingresar a partir del teclado con que operación desea trabajar:
 
 ```
@@ -47,7 +49,7 @@ Cantidad de permutaciones: 9
 [('a', 'a'), ('a', 'b'), ('a', 'c'), ('b', 'a'), ('b', 'b'), ('b', 'c'), ('c', 'a'), ('c', 'b'), ('c', 'c')]
 ```
 
-## Calculadora simple (Calculadora 2)
+## [Calculadora simple - Directorio](https://github.com/0draS0/PY-CalcuCombinaciones/tree/main/Calculadora%20simple "Simple")
 El programa cuenta con un menú de selección, donde el usuario puede ingresar a partir del teclado con que operación desea trabajar:
 
 ```
@@ -85,10 +87,5 @@ Ingrese el valor 1: 2
 ```
 
 
-## LICENCIA
-Este proyecto fue una recopilación de información sobre uso de librerías en PY con fines académicos. Te agradecería mucho si:
-  - Comentas sobre este proyecto 📢
-  - Lo utilizas con fines educativos y aprendizaje 📖
-
-
-### Bye 🖐
+# LICENCIA ✅
+El repositorio es resultado de la recopilación de información sobre los usos de etiquetas y elementos gráficos de HTML y CSS con <b>fines académicos</b>.

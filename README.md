@@ -3,7 +3,7 @@
 _Calculadora de combinaciones ordinarias, permutaciones ordinarias con repetición y permutaciones ordinarias sin repetición. Basadas en fórmulas matemática que se revisan en el ámbito académico._
 
 ## Situación de repositorio 📊️
-<img src="https://img.shields.io/badge/Coverage-100%25-FFB4A2?style=for-the-badge" />  <img src="https://img.shields.io/github/stars/0draS0/Practicas_HTML?color=FFB4A2&style=for-the-badge" />  <img src="https://img.shields.io/badge/Version-1.2-FFB4A2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coverage-100%25-FFB4A2?style=for-the-badge" />  <img src="https://img.shields.io/github/stars/0draS0/Combinacion-Permutacion?color=FFB4A2&style=for-the-badge" />  <img src="https://img.shields.io/badge/Version-1.2-FFB4A2?style=for-the-badge" />
 
 <br>
 
